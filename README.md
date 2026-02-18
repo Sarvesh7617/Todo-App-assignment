@@ -31,7 +31,7 @@ Follow these steps to run the project locally:
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/Sarvesh7617/Todo-App-assignment.git
-    cd todo-test
+    cd Todo-App-assignment
     ```
 
 2.  **Install dependencies:**
